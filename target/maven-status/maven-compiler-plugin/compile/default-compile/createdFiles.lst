@@ -1,0 +1,15 @@
+pe\edu\upc\demosi61clase\dtos\ReviewDTO.class
+pe\edu\upc\demosi61clase\DemoSi61ClaseApplication.class
+pe\edu\upc\demosi61clase\entities\Movie.class
+pe\edu\upc\demosi61clase\servicesinterfaces\IReviewService.class
+pe\edu\upc\demosi61clase\controllers\MovieController.class
+pe\edu\upc\demosi61clase\controllers\ReviewController.class
+pe\edu\upc\demosi61clase\dtos\PointByMovieDTO.class
+pe\edu\upc\demosi61clase\dtos\ReviewByMovieDTO.class
+pe\edu\upc\demosi61clase\repositories\IMovieRepository.class
+pe\edu\upc\demosi61clase\servicesinterfaces\IMovieService.class
+pe\edu\upc\demosi61clase\repositories\IReviewRepository.class
+pe\edu\upc\demosi61clase\dtos\MovieDTO.class
+pe\edu\upc\demosi61clase\servicesimplements\ReviewServiceImplement.class
+pe\edu\upc\demosi61clase\servicesimplements\MovieServiceImplement.class
+pe\edu\upc\demosi61clase\entities\Review.class

@@ -1,0 +1,15 @@
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\servicesinterfaces\IMovieService.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\dtos\PointByMovieDTO.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\DemoSi61ClaseApplication.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\controllers\MovieController.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\dtos\ReviewDTO.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\servicesinterfaces\IReviewService.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\dtos\MovieDTO.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\repositories\IMovieRepository.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\servicesimplements\ReviewServiceImplement.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\dtos\ReviewByMovieDTO.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\entities\Movie.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\servicesimplements\MovieServiceImplement.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\entities\Review.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\repositories\IReviewRepository.java
+C:\Users\Daniel\arqui web\demoSI61Clase\src\main\java\pe\edu\upc\demosi61clase\controllers\ReviewController.java
